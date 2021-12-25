@@ -1,24 +1,86 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello rails back end!
 
-Things you may want to cover:
+Simple app that generates random messages on API endpoint
 
-* Ruby version
+## Front end
 
-* System dependencies
+https://github.com/Richie9000/hello-rails-frontend/
 
-* Configuration
+## Back end
 
-* Database creation
+https://github.com/Richie9000/hello-rails-backend/
 
-* Database initialization
+## Built With :hammer:
 
-* How to run the test suite
+- Ruby on Rails
 
-* Services (job queues, cache servers, search engines, etc.)
+To get a local copy up and running follow these simple steps:
 
-* Deployment instructions
+**First Steps**
 
-* ...
+1. Clone it using git command:
+
+```ruby
+git clone git@github.com:Richie9000/hello-rails-back-end.git
+```
+
+**Run in development (locally)**
+
+1. Install gem files and dependencies:
+
+```ruby
+bundle install
+```
+
+```ruby
+yarn install
+```
+
+2. Setup data base
+
+```ruby
+rails db:setup
+
+rails db:migrate
+
+rails db:seed
+```
+
+3. Run server
+
+```ruby
+rails server
+```
+
+## Troubleshooting
+
+If you encounter any issues with webpacker, try to run
+
+```ruby
+bundle exec rake webpacker:install
+```
+
+## Authors
+
+👤 **Ricardo R**
+
+- GitHub: [@Richie9000](https://github.com/Richie9000)
+- Linkedin [Ricardo Rod](https://www.linkedin.com/in/ricardo-rod/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## :grey_exclamation: Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
