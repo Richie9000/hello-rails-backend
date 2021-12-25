@@ -8,5 +8,5 @@
 Message.create(greeting: 'hello')
 Message.create(greeting: 'hola')
 Message.create(greeting: 'Bonjour')
-Message.create(greeting: 'GUten tag')
+Message.create(greeting: 'Guten tag')
 Message.create(greeting: 'Namaste')
