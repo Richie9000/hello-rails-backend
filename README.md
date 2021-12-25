@@ -6,7 +6,11 @@ Simple app that generates random messages on API endpoint
 
 ## Front end
 
-https://github.com/Richie9000/hello-rails-front-end/
+https://github.com/Richie9000/hello-rails-frontend/
+
+## Back end
+
+https://github.com/Richie9000/hello-rails-backend/
 
 ## Built With :hammer:
 
